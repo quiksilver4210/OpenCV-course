@@ -1,7 +1,7 @@
 #include "opencv2/opencv.hpp"
 #include <string>
 
-const std::string file_directory = "../../examples/";
+const std::string file_directory = "../../examples/1_capture/";
 
 int showVideo(const std::string &win_name) {
   cv::VideoCapture capture(file_directory + "dog.mp4");
