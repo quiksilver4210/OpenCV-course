@@ -12,3 +12,5 @@ macro(include_OpenCV TARGET)
 endmacro()
 
 add_subdirectory(1_capture)
+
+add_subdirectory(2_color_corretion)
