@@ -1,0 +1,14 @@
+*
+!examples
+!1_capture
+!2_color_corretion
+
+
+
+
+!*.jpeg
+!*.mp4
+!.gitignore
+!**/CMakeLists.txt
+!**/*.cpp
+!**/*.h
