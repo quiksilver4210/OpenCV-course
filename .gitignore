@@ -6,8 +6,8 @@
 
 
 
-!*.jpeg
-!*.mp4
+!**/*.jpeg
+!**/*.mp4
 !.gitignore
 !**/CMakeLists.txt
 !**/*.cpp
