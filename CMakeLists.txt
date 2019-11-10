@@ -14,3 +14,7 @@ endmacro()
 add_subdirectory(1_capture)
 
 add_subdirectory(2_color_correction)
+
+add_subdirectory(3_filters)
+
+add_subdirectory(4_contours)
