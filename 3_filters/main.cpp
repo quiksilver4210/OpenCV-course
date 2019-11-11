@@ -45,7 +45,6 @@ void blurOps() {
   cv::Mat src = cv::imread(file_directory + "text.jpg");
   showImage("Def", src);
   cv::Mat processed;
-  //  cv::cvtColor(src, src, cv::COLOR_BGR2GRAY);
 
   cv::blur(src, processed, ker);
   showImage("Blur", processed);
