@@ -9,7 +9,9 @@
 
 
 !**/*.jpeg
+!**/*.png
 !**/*.mp4
+!**/*.jpg
 !.gitignore
 !**/CMakeLists.txt
 !**/*.cpp
